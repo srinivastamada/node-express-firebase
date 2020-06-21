@@ -1,8 +1,8 @@
 {
   "name": "node-express-axios",
   "version": "1.0.0",
-  "description": "Node express axios",
-  "main": "index.js",
+  "description": "Node express",
+  "main": "functions/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
